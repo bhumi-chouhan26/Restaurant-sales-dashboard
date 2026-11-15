@@ -49,3 +49,23 @@ A console-based Python program that reads `restaurant_sales.csv` using Pandas, c
 | 4. Different Valid Scenario | Top items and daily sales | Gulab Jamun (45 units), Paneer Tikka (Rs. 4840), 2026-10-01 : Rs. 7700, 2026-10-02 : Rs. 7040, Best day: 2026-10-01 |
 
 
+##Screenshots
+
+##Test case 1
+![test case 1]:(<Screenshot 2026-11-15 214204.png>)
+
+
+##Test case 2
+![test case 1]:(<Screenshot 2026-11-15 214224.png>)
+
+##Test case 3
+![test case 1]:(<Screenshot 2026-11-15 214245.png>)
+
+##Test case 4
+![test case 1]:(<Screenshot 2026-11-15 214313.png>)
+
+
+
+
+
+
