@@ -51,17 +51,17 @@ A console-based Python program that reads `restaurant_sales.csv` using Pandas, c
 
 ##Screenshots
 
-##Test case 1
+##Test case 1: normal input
 ![test case 1]:(<Screenshot 2026-11-15 214204.png>)
 
 
-##Test case 2
+##Test case 2: boundary input 
 ![test case 1]:(<Screenshot 2026-11-15 214224.png>)
 
-##Test case 3
+##Test case 3: invalid input
 ![test case 1]:(<Screenshot 2026-11-15 214245.png>)
 
-##Test case 4
+##Test case 4: different valid scenario
 ![test case 1]:(<Screenshot 2026-11-15 214313.png>)
 
 
