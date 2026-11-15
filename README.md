@@ -51,16 +51,16 @@ A console-based Python program that reads `restaurant_sales.csv` using Pandas, c
 
 ##Screenshots
 
-![test case 1]:(<Screenshot 2026-11-15 214204.png>)
+![test case 1](<Screenshot 2026-11-15 214204.png>)
 
 
-![test case 2]:(<Screenshot 2026-11-15 214224.png>)
+![test case 2](<Screenshot 2026-11-15 214224.png>)
 
 
-![test case 3]:(<Screenshot 2026-11-15 214245.png>)
+![test case 3](<Screenshot 2026-11-15 214245.png>)
 
 
-![test case 4]:(<Screenshot 2026-11-15 214313.png>)
+![test case 4](<Screenshot 2026-11-15 214313.png>)
 
 
 
